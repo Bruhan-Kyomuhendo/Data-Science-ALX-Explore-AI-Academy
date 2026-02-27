@@ -1,0 +1,79 @@
+05-11-24_16:05:10
+=========================================
+============ AUTOGRADING ================
+=========================================
+Examining contents of 9475_4303.zip
+One jupyter notebook found
+-----------------------------------------
+Unzipping 9475_4303.zip to /home/autograder/unzipped
+Archive:  /home/autograder/temp/9475_4303.zip
+  inflating: /home/autograder/unzipped/9475_4303/submission_Maji_Ndogo_farm_survey_small.db  
+  inflating: /home/autograder/unzipped/9475_4303/submission_Integrated_project_P3_Validating_our_data_student.ipynb  
+  inflating: /home/autograder/unzipped/9475_4303/submission_CACHEDIR.TAG  
+  inflating: /home/autograder/unzipped/9475_4303/submission_README.md  
+  inflating: /home/autograder/unzipped/9475_4303/submission_data_ingestion.cpython-312.pyc  
+  inflating: /home/autograder/unzipped/9475_4303/stepwise  
+  inflating: /home/autograder/unzipped/9475_4303/submission_weather_data_processor.py  
+  inflating: /home/autograder/unzipped/9475_4303/nodeids  
+  inflating: /home/autograder/unzipped/9475_4303/Integrated_project_P3_Validating_our_data_test_suite.py  
+  inflating: /home/autograder/unzipped/9475_4303/submission_field_data_processor.py  
+  inflating: /home/autograder/unzipped/9475_4303/lastfailed  
+  inflating: /home/autograder/unzipped/9475_4303/submission_validate_data.py  
+  inflating: /home/autograder/unzipped/9475_4303/submission_weather_data_processor.cpython-312.pyc  
+  inflating: /home/autograder/unzipped/9475_4303/submission_validate_data.cpython-312-pytest-8.3.3.pyc  
+  inflating: /home/autograder/unzipped/9475_4303/submission_data_ingestion.py  
+  inflating: /home/autograder/unzipped/9475_4303/submission_field_data_processor.cpython-312.pyc  
+  inflating: /home/autograder/unzipped/9475_4303/preamble.py  
+caution: excluded filename not matched:  __MACOSX/*
+Unzipped successfully
+-----------------------------------------
+Processing notebook
+Notebook processed successfully
+-----------------------------------------
+Checking submission for syntax errors
+Check complete
+-----------------------------------------
+Grading student code
+Student code graded successfully
+PASSED     create_db_engine
+PASSED     query_data
+PASSED     read_from_web_CSV
+FAILED     docstring_length
+           Inputs: None
+           @pytest.mark.parametrize("function_name", FUNCTIONS_TO_TEST)
+           assert (None)
+FAILED     docstring_length
+           Inputs: None
+           @pytest.mark.parametrize("function_name", FUNCTIONS_TO_TEST)
+           assert (None)
+FAILED     docstring_length
+           Inputs: None
+           @pytest.mark.parametrize("function_name", FUNCTIONS_TO_TEST)
+           assert (None)
+PASSED     field_processor
+PASSED     field_data_processor_docstrings
+PASSED     field_data_processor_method_docstrings_coverage
+PASSED     weather_data_processing
+FAILED     weather_data_processor_docstrings
+           Inputs: None
+           assert (None is not None)
+FAILED     weather_data_processor_method_docstrings_coverage
+           Inputs: None
+           assert 0.0 > 60
+PASSED     read_field_dataframe_shape
+PASSED     field_dataframe_columns
+PASSED     crop_types_are_valid
+PASSED     field_dataframe_non_negative_elevation
+PASSED     Hypothesis_testing_docstring_coverage
+PASSED     filter_field_data
+PASSED     filter_weather_data
+PASSED     run_ttest
+PASSED     print_ttest_results
+-----------------------------------------
+Saving result (76.19) to 9475_4303.csv
+=========================================
+AUTOGRADING COMPLETED WITH EXIT STATUS: 0
+=========================================
+
+Submission Name : 9475_4303.zip
+Grade : 76.19

@@ -1,0 +1,40 @@
+Give examples of OR, NOT, AND, XOR in google sheets
+
+For these examples, let's assume we have a spreadsheet with columns A (Name), B (Age), and C (City).
+
+Definition of OR Function:
+The OR function returns TRUE if any of the conditions are met. It only returns FALSE if all conditions are false.
+"At least one" requirement:
+The question asks for records containing "at least one" of the required terms. This aligns perfectly with the OR function's behavior.
+How OR works in data retrieval:
+When used in database queries or spreadsheet filters, OR will include any record that matches at least one of the specified criteria.
+Example:
+If you're searching for records containing either "apple" OR "orange", it will return all records that have either "apple", "orange", or both
+
+NOT Function:
+
+The NOT function returns the opposite of a logical value. It's often used with other functions.
+Example:
+=NOT(B2>30)
+This formula will return TRUE if the age in B2 is 30 or younger, and FALSE if it's over 30.
+
+AND Function:
+
+The AND function returns TRUE if all of its arguments are TRUE.
+Example:
+=AND(B2>18, C2="New York")
+This formula will return TRUE if the person is over 18 AND lives in New York, otherwise it returns FALSE.
+
+XOR Function:
+
+The XOR (Exclusive OR) function returns TRUE if an odd number of arguments are TRUE, and FALSE otherwise. Google Sheets doesn't have a built-in XOR function, but we can create one using other logical functions.
+Example:
+=IF(OR(B2>30, C2="London"), NOT(AND(B2>30, C2="London")), FALSE)
+This formula will return TRUE if either the person is over 30 OR lives in London, but not both. It returns FALSE if both or neither conditions are true.
+To use these in practice:
+
+You could use these formulas in an IF statement to return certain values based on the condition.
+You could use them in conditional formatting to highlight cells that meet specific criteria.
+You could use them with FILTER or QUERY functions to extract data that meets certain conditions.
+
+Remember, when using these functions, make sure to adjust the cell references (B2, C2, etc.) to match your actual data range.

@@ -1,0 +1,9 @@
+Additional Resources: The links provided contain additional information from external resources.
+
+RegExr
+https://regexr.com/
+RegExr is an online tool to learn, build, and test Regular Expressions (RegEx / RegExp).
+
+RegexOne
+https://regexone.com/lesson/matching_characters?
+Learn Regular Expressions with simple, interactive exercises.

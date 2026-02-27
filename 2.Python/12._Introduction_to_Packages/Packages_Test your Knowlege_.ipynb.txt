@@ -1,0 +1,7 @@
+In Python, what is the purpose of the __init__.py file within a package?
+
+Ans:    It is used to indicate that a directory should be treated as a package and can contain initialisation code if there is any.
+
+Which of the following is a correct way to import a specific function (`my_function`) from a module (`my_module`)?
+
+Ans:  from my_module import my_function
