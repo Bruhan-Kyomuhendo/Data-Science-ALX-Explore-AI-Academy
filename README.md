@@ -166,6 +166,7 @@ See: [`program_design_principles/good_coding_practices.ipynb`](./program_design_
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
+![Pytorch](https://img.shields.io/badge/Pytorch-3776AB?style=flat-square)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
@@ -268,7 +269,6 @@ The **ALX / Explore AI Academy Data Science programme** is a world-class, 13-mon
 - **Project-based learning** — real datasets, real problems
 - **Integrated assessments** — exams that test holistic understanding, not just recall
 - **Industry alignment** — tools and workflows used by professional data teams globally
-- **African context** — building capacity for data-driven decision-making across the continent
 
 ---
 
@@ -276,9 +276,9 @@ The **ALX / Explore AI Academy Data Science programme** is a world-class, 13-mon
 
 **Bruhan Kyomuhendo**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/your-username)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:your@email.com)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/bruhan-kyomuhendo/))
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/Bruhan-Kyomuhendo)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:bruhankyomuhendo80@gamil.com)
 
 ---
 
