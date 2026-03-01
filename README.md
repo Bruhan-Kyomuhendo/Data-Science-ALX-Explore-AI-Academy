@@ -6,8 +6,9 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 ![Domain](https://img.shields.io/badge/Domain-Data%20Science%20%7C%20ML%20%7C%20AI-orange?style=for-the-badge)
 
----
+ 🏅 **[View Certificate of Completion](https://drive.google.com/file/d/13Z-PPAF89kmWnMPLvbXECd8XAvLKd2zz/view?usp=sharing)** &nbsp;|&nbsp; 🌍 **[ALX Data Science Programme](https://www.alxafrica.com/programme/data-science/)**
 
+---
 ## 👤 About
 
 **Bruhan Kyomuhendo** | Data Scientist & Machine Learning Practitioner
@@ -270,17 +271,18 @@ The **ALX / Explore AI Academy Data Science programme** is a world-class, 13-mon
 - **Integrated assessments** — exams that test holistic understanding, not just recall
 - **Industry alignment** — tools and workflows used by professional data teams globally
 
+🏅 **Certificate of Completion:** [View here](https://drive.google.com/file/d/13Z-PPAF89kmWnMPLvbXECd8XAvLKd2zz/view?usp=sharing)
+
 ---
 
 ## 📬 Contact
 
 **Bruhan Kyomuhendo**
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/bruhan-kyomuhendo])
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/bruhan-kyomuhendo)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/Bruhan-Kyomuhendo)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:bruhankyomuhendo80@gamil.com)
-
+[![Certificate](https://img.shields.io/badge/ALX%20Certificate-View-FFD700?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/13Z-PPAF89kmWnMPLvbXECd8XAvLKd2zz/view?usp=sharing)
 ---
 
 ---
